@@ -1,0 +1,32 @@
+body{
+    background: url(../images/rose-.jpeg);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color:rgb(212, 83, 146);
+    font-family: serif;
+    font-size: larger;
+    text-align: center;
+
+}
+
+h2{
+    color:aqua;
+}
+
+
+
+
+.container{
+    background: rgb(70, 60, 60,.8);
+    border: 2px solid rgb(91, 13, 72);
+    min-height: 50px;
+    margin: 20px auto;  
+}
+img{
+    width: 30%;
+    height: auto;
+    display:block;
+    margin: 10px auto;
+}

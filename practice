@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Very Fancy Title</title>
+</head>
+<body>
+    <!-- This is a comment-->
+    <h1>Hi! I'm a heading! An important heading!</h1>
+    <p>I'm a paragraph!</p>
+    <p>Me <br> Too!</p>
+    <a href="https://www.mchenry.edu/">McHenry County College</a>
+    <img src="/Users/mdolan/Desktop/WEB 105/mountains-8201132_1280.webp" alt="">
+</body>
+</html>
