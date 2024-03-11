@@ -1,3 +1,8 @@
-body{ 
-    background-color:red;
+body { 
+    background-color:rgb(157, 100, 150);
+    font-family:monospace;
+    color: rgb(38, 36, 55);
+    font-weight: 500
+    font-size:300
 }
+
