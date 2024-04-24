@@ -4,8 +4,10 @@
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
-    min-height: 100px;
-    padding-top: 20px;
+    
+    padding: 25px;
+    margin-top: 50px;
+
 }
 
 .border{
