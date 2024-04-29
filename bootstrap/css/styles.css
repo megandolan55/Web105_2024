@@ -1,6 +1,6 @@
 .masthead{
-    background-color: rebeccapurple;
-    color:gold;
+    background-color: rgb(25, 6, 64);
+    color:rgb(190, 57, 144);
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
@@ -10,8 +10,9 @@
 
 }
 
+
 .border{
-    border-color: rebeccapurple;
+    border-color: rgb(143, 169, 160);
 }
 img{
     width: 90%;
