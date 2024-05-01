@@ -10,10 +10,13 @@
 
 }
 
-
+body{
+    background-color: lightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .border{
     border-color: rgb(16, 58, 43);
-    border-wi
+    border-width: 2px;
 }
 img{
     width: 90%;
