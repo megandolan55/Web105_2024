@@ -1,6 +1,6 @@
 .masthead{
-    background-color: rgb(25, 6, 64);
-    color:rgb(190, 57, 144);
+    background-color: rgb(60, 18, 146);
+    color:rgb(239, 158, 250);
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
@@ -13,6 +13,8 @@
 body{
     background-color: lightblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
 }
 .border{
     border-color: rgb(16, 58, 43);
