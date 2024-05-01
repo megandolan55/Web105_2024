@@ -20,6 +20,10 @@ body{
     border-color: rgb(16, 58, 43);
     border-width: 2px;
 }
+
+.container{
+    margin:auto
+}
 img{
     width: 90%;
     margin: 10px auto;
